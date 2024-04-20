@@ -1,4 +1,3 @@
-## Wzx (Lafite)
 日期：2024.4.18
 
 我的CodeLab个人主页：[点这里](https://create.codelab.club/users/Wzx)
